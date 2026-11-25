@@ -1,0 +1,20 @@
+{
+  "name": "tfi-food-store",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.34.9",
+  "scripts": {"dev": "vite --host localhost", "build": "tsc --noEmit && vite build", "preview": "vite preview --host localhost"},
+  "dependencies": {
+    "react": "19.2.0", "react-dom": "19.2.0",
+    "@tanstack/react-query": "5.90.21", "@tanstack/react-form": "1.23.0",
+    "@tanstack/react-table": "8.21.3", "react-router-dom": "7.9.6",
+    "zustand": "5.0.8", "axios": "1.13.2", "lucide-react": "0.468.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2", "@types/react-dom": "19.2.2", "@types/node": "24.10.1",
+    "@vitejs/plugin-react": "5.1.1", "vite": "7.3.8", "typescript": "5.9.3",
+    "tailwindcss": "4.1.17", "@tailwindcss/vite": "4.1.17"
+  },
+  "pnpm": {"onlyBuiltDependencies": ["esbuild"]}
+}
