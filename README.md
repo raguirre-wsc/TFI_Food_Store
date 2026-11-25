@@ -7,9 +7,9 @@ Aplicación de pedidos de comida con backend FastAPI + SQLModel, PostgreSQL y fr
 ## Enlaces de entrega
 
 - Repositorio público de GitHub: [https://github.com/raguirre-wsc/TFI_Food_Store](https://github.com/raguirre-wsc/TFI_Food_Store).
-- Video público de demostración de 10 a 15 minutos: **pendiente de grabar e incorporar la URL real**.
+- Video de demostración: [Ver video en YouTube](https://www.youtube.com/watch?v=4aeX8v0-4Bc).
 
-Ambos enlaces son obligatorios según la consigna y deben completarse antes de entregar.
+Estos enlaces corresponden al repositorio público y al video de demostración solicitados por la consigna.
 
 ## Requisitos
 
